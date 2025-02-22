@@ -20,7 +20,7 @@ Este projeto se encontra concluído
 
 ## Funcionalidades e Demonstração da Aplicação
 - `Funcionalidade 1`: Sortear amigos para um evento social
-![Demonstração da aplicação](https://github.com/AnaBia044/Jogo-do-Amigo-Secreto/blob/main/gif.gif)
+![Demonstração da aplicação](gif.gif)
 
 ## Acesso ao Projeto
 O projeto pode ser acessado por este link: http://192.168.18.13:5500/index.html
