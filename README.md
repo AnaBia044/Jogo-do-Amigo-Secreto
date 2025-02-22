@@ -1,6 +1,8 @@
 <h1 align="center"> Sorteio de Amigos </h1>
-![Um grupo de quatro amigos em uma região de montanhas se abraçando, todos estão de costas, contém um gradiente de tons rosa, um texto escrito Amigos e um círculo branco ao redor do texto](Amigos.png)
+![Um grupo de quatro amigos em uma região de montanhas se abraçando, todos estão de costas, contém um gradiente de tons rosa, um texto escrito Amigos e um círculo branco ao redor do texto]![Amigos](https://github.com/user-attachments/assets/b740e196-b2a5-400d-b251-3582c10d1746)
+
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
+
 # Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
