@@ -4,7 +4,6 @@
 # Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
@@ -21,7 +20,7 @@ Este projeto se encontra concluído
 
 ## Funcionalidades e Demonstração da Aplicação
 - `Funcionalidade 1`: Sortear amigos para um evento social
-![Demonstração da aplicação](caminho/do/gif.gif)
+![Demonstração da aplicação](C:\Users\anabe\OneDrive\Documentos\Curso de Programação\challenge-amigo-secreto_pt-main)
 
 ## Acesso ao Projeto
 O projeto pode ser acessado por este link: http://192.168.18.13:5500/index.html
