@@ -1,6 +1,7 @@
 <h1 align="center"> Sorteio de Amigos </h1>
 
-![Um grupo de quatro amigos em uma região de montanhas se abraçando, todos estão de costas, contém um gradiente de tons rosa, um texto escrito Amigos e um círculo branco ao redor do texto]!(https://github.com/AnaBia044/Jogo-do-Amigo-Secreto/blob/main/Amigos.png?raw=true)
+![Um grupo de quatro amigos em uma região de montanhas se abraçando, todos estão de costas, contém um gradiente de tons rosa, um texto escrito Amigos e um círculo branco ao redor do texto](https://raw.githubusercontent.com/AnaBia044/Jogo-do-Amigo-Secreto/main/Amigos.png)
+
 
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
 
